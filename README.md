@@ -1,4 +1,4 @@
-ATB7xPractice | Rest Assured Learning
+PracticeAPIAutomation | Rest Assured Learning
 
 - Rest Assured Basics
 - Rest Assured Advance
