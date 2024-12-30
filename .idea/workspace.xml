@@ -4,15 +4,15 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="1a14bce4-8983-46be-bd21-bab0f1eed0fb" name="Changes" comment="Initial Commit">
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/testingacademy/BuilderPattern.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/testingacademy/NoDesignPattern.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/testingacademy/Test002.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/testingacademy/Test003.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/testingacademy/Test004.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/testingacademy/ex30122024/CRUD/GET/BDDStyle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/testingacademy/ex30122024/CRUD/GET/NONBDDStyle.java" afterDir="false" />
+    <list default="true" id="1a14bce4-8983-46be-bd21-bab0f1eed0fb" name="Changes" comment="Basic Gherkin given() when() then() syntax">
+      <change afterPath="$PROJECT_DIR$/nonBDDPUTStyle.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/testingacademy/ex30122024/CRUD/POST/NONBDDPost.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/testingacademy/ex30122024/CRUD/PUT/NONBDDPUTStyle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/testingacademy/exTestNG/TestNG001.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/testingacademy/exTestNG/TestNG002.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/testingacademy/ex30122024/CRUD/POST/BDDPost.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/testingacademy/ex30122024/CRUD/POST/BDDPost.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -29,21 +29,21 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
-  "lastFilter": {
-    "state": "OPEN",
-    "assignee": "jay2k10"
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;jay2k10&quot;
   }
-}]]></component>
-  <component name="GithubPullRequestsUISettings"><![CDATA[{
-  "selectedUrlAndAccountId": {
-    "url": "https://github.com/jay2k10/PracticeAPIAutomation.git",
-    "accountId": "d2406445-fbfd-4b78-8a1d-3c1743bc8a57"
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/jay2k10/PracticeAPIAutomation.git&quot;,
+    &quot;accountId&quot;: &quot;d2406445-fbfd-4b78-8a1d-3c1743bc8a57&quot;
   }
-}]]></component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 7
-}]]></component>
+}</component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 7
+}</component>
   <component name="ProjectId" id="2quETLGwN6oqRxBs19QxzkJXBzu" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <ConfirmationsSetting value="2" id="Add" />
@@ -55,8 +55,10 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "Application.App.executor": "Run",
+    "Application.BDDPost.executor": "Run",
     "Application.BDDStyle.executor": "Run",
     "Application.BuilderPattern.executor": "Run",
+    "Application.NONBDDPost.executor": "Run",
     "Application.NONBDDStyle.executor": "Run",
     "Application.Test001.executor": "Run",
     "Application.Test002.executor": "Run",
@@ -64,83 +66,114 @@
     "Maven. [org.apache.maven.plugins:maven-archetype-plugin:RELEASE:generate].executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "TestNG.C:/Users/Naman/IdeaProjects/PracticeAPIAutomation/nonBDDPUTStyle.xml.executor": "Run",
+    "TestNG.TestNG001.test_001.executor": "Run",
+    "TestNG.TestNG001.test_get.executor": "Run",
+    "TestNG.TestNG002.demo5.executor": "Run",
+    "TestNG.TestNG002.executor": "Run",
     "git-widget-placeholder": "master",
-    "kotlin-language-version-configured": "true"
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "C:/Users/Naman/IdeaProjects/PracticeAPIAutomation"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.NONBDDStyle">
-    <configuration name="BDDStyle" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.testingacademy.ex30122024.CRUD.GET.BDDStyle" />
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Naman\IdeaProjects\PracticeAPIAutomation" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.testingacademy.exTestNG" />
+      <recent name="com.testingacademy.ex30122024.CRUD.POST" />
+    </key>
+  </component>
+  <component name="RunManager" selected="TestNG.C:/Users/Naman/IdeaProjects/PracticeAPIAutomation/nonBDDPUTStyle.xml">
+    <configuration name="C:/Users/Naman/IdeaProjects/PracticeAPIAutomation/nonBDDPUTStyle.xml" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="PracticeAPIAutomation" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.testingacademy.ex30122024.CRUD.GET.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
+      <option name="SUITE_NAME" value="$PROJECT_DIR$/nonBDDPUTStyle.xml" />
+      <option name="TEST_OBJECT" value="SUITE" />
+      <properties />
+      <listeners />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="BuilderPattern" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.testingacademy.BuilderPattern" />
+    <configuration name="TestNG001.test_001" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="PracticeAPIAutomation" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.testingacademy.*" />
+          <option name="PATTERN" value="com.testingacademy.exTestNG.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
+      <option name="PACKAGE_NAME" value="com.testingacademy.exTestNG" />
+      <option name="MAIN_CLASS_NAME" value="com.testingacademy.exTestNG.TestNG001" />
+      <option name="METHOD_NAME" value="test_001" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="NONBDDStyle" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.testingacademy.ex30122024.CRUD.GET.NONBDDStyle" />
+    <configuration name="TestNG001.test_get" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="PracticeAPIAutomation" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.testingacademy.ex30122024.CRUD.GET.*" />
+          <option name="PATTERN" value="com.testingacademy.exTestNG.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
+      <option name="PACKAGE_NAME" value="com.testingacademy.exTestNG" />
+      <option name="MAIN_CLASS_NAME" value="com.testingacademy.exTestNG.TestNG001" />
+      <option name="METHOD_NAME" value="test_get" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Test002" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.testingacademy.Test002" />
+    <configuration name="TestNG002" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="PracticeAPIAutomation" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.testingacademy.*" />
+          <option name="PATTERN" value="com.testingacademy.exTestNG.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
+      <option name="PACKAGE_NAME" value="com.testingacademy.exTestNG" />
+      <option name="MAIN_CLASS_NAME" value="com.testingacademy.exTestNG.TestNG002" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Test003" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.testingacademy.Test003" />
+    <configuration name="TestNG002.demo5" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="PracticeAPIAutomation" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.testingacademy.*" />
+          <option name="PATTERN" value="com.testingacademy.exTestNG.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
+      <option name="PACKAGE_NAME" value="com.testingacademy.exTestNG" />
+      <option name="MAIN_CLASS_NAME" value="com.testingacademy.exTestNG.TestNG002" />
+      <option name="METHOD_NAME" value="demo5" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.NONBDDStyle" />
-        <item itemvalue="Application.BDDStyle" />
-        <item itemvalue="Application.BuilderPattern" />
-        <item itemvalue="Application.Test003" />
-        <item itemvalue="Application.Test002" />
+        <item itemvalue="TestNG.C:/Users/Naman/IdeaProjects/PracticeAPIAutomation/nonBDDPUTStyle.xml" />
+        <item itemvalue="TestNG.TestNG002.demo5" />
+        <item itemvalue="TestNG.TestNG002" />
+        <item itemvalue="TestNG.TestNG001.test_get" />
+        <item itemvalue="TestNG.TestNG001.test_001" />
       </list>
     </recent_temporary>
   </component>
@@ -161,7 +194,23 @@
       <option name="project" value="LOCAL" />
       <updated>1735505730936</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Basic Gherkin given() when() then() syntax">
+      <option name="closed" value="true" />
+      <created>1735514007923</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1735514007923</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Basic Gherkin given() when() then() syntax">
+      <option name="closed" value="true" />
+      <created>1735514149955</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1735514149955</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -204,6 +253,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Initial Commit" />
-    <option name="LAST_COMMIT_MESSAGE" value="Initial Commit" />
+    <MESSAGE value="Basic Gherkin given() when() then() syntax" />
+    <option name="LAST_COMMIT_MESSAGE" value="Basic Gherkin given() when() then() syntax" />
   </component>
 </project>
