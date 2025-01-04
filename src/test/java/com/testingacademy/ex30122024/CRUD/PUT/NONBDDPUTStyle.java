@@ -25,25 +25,22 @@ public class NONBDDPUTStyle {
     //    },
     //    "additionalneeds" : "Breakfast"
     //}
-
-
     // POST - Auth - token
     // POST - Booking ID
     // PUT - token and BookingID
 
-
-//    public void get_token(){
-//
-//    }
-//
-//    public void get_booking_id(){
-//        return bookingid;
-//    }
+    //    Public void get_token(){
+    //
+    //    }
+    //
+    //    public void get_booking_id(){
+    //        return bookingid;
+    //    }
 
     @Test
     public void putPositiveTC() {
-        String token = "8d422eef5cdb634";
-        String bookingID = "664";
+        String token = "bd18842ac422070";
+        String bookingID = "310";
 
         String payload_put = "{\n" +
                 "    \"firstname\" : \"jay\",\n" +

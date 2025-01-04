@@ -4,15 +4,24 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="1a14bce4-8983-46be-bd21-bab0f1eed0fb" name="Changes" comment="Basic Gherkin given() when() then() syntax">
-      <change afterPath="$PROJECT_DIR$/nonBDDPUTStyle.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/testingacademy/ex30122024/CRUD/POST/NONBDDPost.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/testingacademy/ex30122024/CRUD/PUT/NONBDDPUTStyle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/testingacademy/exTestNG/TestNG001.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/testingacademy/exTestNG/TestNG002.java" afterDir="false" />
+    <list default="true" id="1a14bce4-8983-46be-bd21-bab0f1eed0fb" name="Changes" comment="Both BDD and non BDD style example.">
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/testingacademy/ex30122024/CRUD/CRUD/Integrations.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/testingacademy/exTestNG/TestNG003.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/testingacademy/exTestNG/TestNG004.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/testingacademy/exTestNG/TestNG005.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/testingacademy/exTestNG/TestNG006.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/testingacademy/exTestNG/TestNG007.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/testingacademy/exTestNG/TestNG008.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/testingacademy/exTestNG/TestNG009.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/testNG003.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/testNG006_Groups.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/testNG008_Chrome.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/testNG008_Firefox.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/com/testingacademy/ex30122024/CRUD/POST/BDDPost.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/testingacademy/ex30122024/CRUD/POST/BDDPost.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/testingacademy/ex30122024/CRUD/PUT/NONBDDPUTStyle.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/testingacademy/ex30122024/CRUD/PUT/NONBDDPUTStyle.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/testingacademy/exTestNG/TestNG002.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/testingacademy/exTestNG/TestNG002.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -67,13 +76,27 @@
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "TestNG.C:/Users/Naman/IdeaProjects/PracticeAPIAutomation/nonBDDPUTStyle.xml.executor": "Run",
+    "TestNG.C:/Users/Naman/IdeaProjects/PracticeAPIAutomation/testNG003.xml.executor": "Run",
+    "TestNG.C:/Users/Naman/IdeaProjects/PracticeAPIAutomation/testNG006_Groups.xml.executor": "Run",
+    "TestNG.C:/Users/Naman/IdeaProjects/PracticeAPIAutomation/testNG008_Firefox.xml.executor": "Run",
+    "TestNG.C:/Users/Naman/IdeaProjects/PracticeAPIAutomation/testNG008_Parameter.xml.executor": "Run",
     "TestNG.TestNG001.test_001.executor": "Run",
     "TestNG.TestNG001.test_get.executor": "Run",
     "TestNG.TestNG002.demo5.executor": "Run",
     "TestNG.TestNG002.executor": "Run",
+    "TestNG.TestNG003.testCase001.executor": "Run",
+    "TestNG.TestNG004.executor": "Run",
+    "TestNG.TestNG005.executor": "Run",
+    "TestNG.TestNG007.executor": "Run",
+    "TestNG.TestNG007.serverStartedOk.executor": "Run",
+    "TestNG.TestNG009.executor": "Run",
     "git-widget-placeholder": "master",
     "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "C:/Users/Naman/IdeaProjects/PracticeAPIAutomation"
+    "last_opened_file_path": "C:/Users/Naman/IdeaProjects/PracticeAPIAutomation",
+    "project.structure.last.edited": "Modules",
+    "project.structure.proportion": "0.0",
+    "project.structure.side.proportion": "0.0",
+    "settings.editor.selected.configurable": "reference.settings.ide.settings.file-colors"
   }
 }]]></component>
   <component name="RecentsManager">
@@ -85,10 +108,10 @@
       <recent name="com.testingacademy.ex30122024.CRUD.POST" />
     </key>
   </component>
-  <component name="RunManager" selected="TestNG.C:/Users/Naman/IdeaProjects/PracticeAPIAutomation/nonBDDPUTStyle.xml">
-    <configuration name="C:/Users/Naman/IdeaProjects/PracticeAPIAutomation/nonBDDPUTStyle.xml" type="TestNG" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="TestNG.TestNG009">
+    <configuration name="C:/Users/Naman/IdeaProjects/PracticeAPIAutomation/testNG008_Firefox.xml" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="PracticeAPIAutomation" />
-      <option name="SUITE_NAME" value="$PROJECT_DIR$/nonBDDPUTStyle.xml" />
+      <option name="SUITE_NAME" value="$PROJECT_DIR$/testNG008_Firefox.xml" />
       <option name="TEST_OBJECT" value="SUITE" />
       <properties />
       <listeners />
@@ -96,25 +119,17 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="TestNG001.test_001" type="TestNG" temporary="true" nameIsGenerated="true">
+    <configuration name="C:/Users/Naman/IdeaProjects/PracticeAPIAutomation/testNG008_Parameter.xml" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="PracticeAPIAutomation" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.testingacademy.exTestNG.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="com.testingacademy.exTestNG" />
-      <option name="MAIN_CLASS_NAME" value="com.testingacademy.exTestNG.TestNG001" />
-      <option name="METHOD_NAME" value="test_001" />
-      <option name="TEST_OBJECT" value="METHOD" />
+      <option name="SUITE_NAME" value="$PROJECT_DIR$/testNG008_Parameter.xml" />
+      <option name="TEST_OBJECT" value="SUITE" />
       <properties />
       <listeners />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="TestNG001.test_get" type="TestNG" temporary="true" nameIsGenerated="true">
+    <configuration name="TestNG007" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="PracticeAPIAutomation" />
       <extension name="coverage">
         <pattern>
@@ -123,25 +138,7 @@
         </pattern>
       </extension>
       <option name="PACKAGE_NAME" value="com.testingacademy.exTestNG" />
-      <option name="MAIN_CLASS_NAME" value="com.testingacademy.exTestNG.TestNG001" />
-      <option name="METHOD_NAME" value="test_get" />
-      <option name="TEST_OBJECT" value="METHOD" />
-      <properties />
-      <listeners />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="TestNG002" type="TestNG" temporary="true" nameIsGenerated="true">
-      <module name="PracticeAPIAutomation" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.testingacademy.exTestNG.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="com.testingacademy.exTestNG" />
-      <option name="MAIN_CLASS_NAME" value="com.testingacademy.exTestNG.TestNG002" />
+      <option name="MAIN_CLASS_NAME" value="com.testingacademy.exTestNG.TestNG007" />
       <option name="TEST_OBJECT" value="CLASS" />
       <properties />
       <listeners />
@@ -149,7 +146,7 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="TestNG002.demo5" type="TestNG" temporary="true" nameIsGenerated="true">
+    <configuration name="TestNG007.serverStartedOk" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="PracticeAPIAutomation" />
       <extension name="coverage">
         <pattern>
@@ -158,9 +155,26 @@
         </pattern>
       </extension>
       <option name="PACKAGE_NAME" value="com.testingacademy.exTestNG" />
-      <option name="MAIN_CLASS_NAME" value="com.testingacademy.exTestNG.TestNG002" />
-      <option name="METHOD_NAME" value="demo5" />
+      <option name="MAIN_CLASS_NAME" value="com.testingacademy.exTestNG.TestNG007" />
+      <option name="METHOD_NAME" value="serverStartedOk" />
       <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestNG009" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="PracticeAPIAutomation" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.testingacademy.exTestNG.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.testingacademy.exTestNG" />
+      <option name="MAIN_CLASS_NAME" value="com.testingacademy.exTestNG.TestNG009" />
+      <option name="TEST_OBJECT" value="CLASS" />
       <properties />
       <listeners />
       <method v="2">
@@ -169,11 +183,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="TestNG.C:/Users/Naman/IdeaProjects/PracticeAPIAutomation/nonBDDPUTStyle.xml" />
-        <item itemvalue="TestNG.TestNG002.demo5" />
-        <item itemvalue="TestNG.TestNG002" />
-        <item itemvalue="TestNG.TestNG001.test_get" />
-        <item itemvalue="TestNG.TestNG001.test_001" />
+        <item itemvalue="TestNG.TestNG009" />
+        <item itemvalue="TestNG.C:/Users/Naman/IdeaProjects/PracticeAPIAutomation/testNG008_Firefox.xml" />
+        <item itemvalue="TestNG.C:/Users/Naman/IdeaProjects/PracticeAPIAutomation/testNG008_Parameter.xml" />
+        <item itemvalue="TestNG.TestNG007" />
+        <item itemvalue="TestNG.TestNG007.serverStartedOk" />
       </list>
     </recent_temporary>
   </component>
@@ -210,7 +224,15 @@
       <option name="project" value="LOCAL" />
       <updated>1735514149955</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="Both BDD and non BDD style example.">
+      <option name="closed" value="true" />
+      <created>1735566618935</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1735566618935</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -254,6 +276,10 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Initial Commit" />
     <MESSAGE value="Basic Gherkin given() when() then() syntax" />
-    <option name="LAST_COMMIT_MESSAGE" value="Basic Gherkin given() when() then() syntax" />
+    <MESSAGE value="Both BDD and non BDD style example." />
+    <option name="LAST_COMMIT_MESSAGE" value="Both BDD and non BDD style example." />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/PracticeAPIAutomation$C__Users_Naman_IdeaProjects_PracticeAPIAutomation_testNG003_xml.ic" NAME="$PROJECT_DIR$/testNG003.xml Coverage Results" MODIFIED="1735573634185" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="true" />
   </component>
 </project>

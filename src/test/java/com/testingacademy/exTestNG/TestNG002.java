@@ -41,8 +41,4 @@ public class TestNG002 {
         System.out.println("AfterSuite");
     }
 
-
-
-
-
 }
