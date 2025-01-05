@@ -4,24 +4,26 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="1a14bce4-8983-46be-bd21-bab0f1eed0fb" name="Changes" comment="Both BDD and non BDD style example.">
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/testingacademy/ex30122024/CRUD/CRUD/Integrations.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/testingacademy/exTestNG/TestNG003.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/testingacademy/exTestNG/TestNG004.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/testingacademy/exTestNG/TestNG005.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/testingacademy/exTestNG/TestNG006.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/testingacademy/exTestNG/TestNG007.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/testingacademy/exTestNG/TestNG008.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/testingacademy/exTestNG/TestNG009.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/testNG003.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/testNG006_Groups.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/testNG008_Chrome.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/testNG008_Firefox.xml" afterDir="false" />
+    <list default="true" id="1a14bce4-8983-46be-bd21-bab0f1eed0fb" name="Changes" comment="With CURD Example.">
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/testingacademy/ex04012025/assersion/gson/Booking.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/testingacademy/ex04012025/assersion/gson/BookingDates.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/testingacademy/ex04012025/assersion/gson/BookingResponse.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/testingacademy/ex04012025/assersion/gson/GSONDeSer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/testingacademy/ex04012025/assersion/gson/GSONser.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/testingacademy/ex04012025/assersion/gson/WithOutser.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/testingacademy/ex04012025/assersion/jsonpath/JSONPath001.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/testingacademy/ex04012025/assersion/jsonpath/JsonPath002.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/testingacademy/ex04012025/assersion/pojos/Pojo001.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/testingacademy/ex04012025/assersion/pojos/Pojo002.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/testingacademy/ex04012025/assersion/verification/TestAssersion001.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/testingacademy/ex04012025/assersion/verification/TestAssersion002.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/testingacademy/ex04012025/assersion/verification/TestAssersion004Assertj.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/testingacademy/ex04012025/assersion/verification/TestAssertion003.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/testingacademy/ex30122024/CRUD/CRUD/integration.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/com/testingacademy/ex30122024/CRUD/PUT/NONBDDPUTStyle.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/testingacademy/ex30122024/CRUD/PUT/NONBDDPUTStyle.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/com/testingacademy/exTestNG/TestNG002.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/testingacademy/exTestNG/TestNG002.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/testingacademy/ex30122024/CRUD/CRUD/Integrations.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/testingacademy/ex30122024/CRUD/CRUD/Integrations.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -76,10 +78,20 @@
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "TestNG.C:/Users/Naman/IdeaProjects/PracticeAPIAutomation/nonBDDPUTStyle.xml.executor": "Run",
+    "TestNG.C:/Users/Naman/IdeaProjects/PracticeAPIAutomation/src/test/java/com/testingacademy/ex30122024/CRUD/CRUD/integration.xml.executor": "Run",
     "TestNG.C:/Users/Naman/IdeaProjects/PracticeAPIAutomation/testNG003.xml.executor": "Run",
     "TestNG.C:/Users/Naman/IdeaProjects/PracticeAPIAutomation/testNG006_Groups.xml.executor": "Run",
     "TestNG.C:/Users/Naman/IdeaProjects/PracticeAPIAutomation/testNG008_Firefox.xml.executor": "Run",
     "TestNG.C:/Users/Naman/IdeaProjects/PracticeAPIAutomation/testNG008_Parameter.xml.executor": "Run",
+    "TestNG.GSONSerialization.executor": "Run",
+    "TestNG.GSONser.testNonBDDStylePOSTPositive.executor": "Run",
+    "TestNG.GSONserealization.executor": "Run",
+    "TestNG.GSONserealization.testNonBDDStylePOSTPositive.executor": "Debug",
+    "TestNG.Integrations.executor": "Run",
+    "TestNG.JSONPath001.executor": "Run",
+    "TestNG.Pojo002.executor": "Run",
+    "TestNG.TestAssersion004Assertj.executor": "Run",
+    "TestNG.TestAssertion003.executor": "Run",
     "TestNG.TestNG001.test_001.executor": "Run",
     "TestNG.TestNG001.test_get.executor": "Run",
     "TestNG.TestNG002.demo5.executor": "Run",
@@ -92,15 +104,16 @@
     "TestNG.TestNG009.executor": "Run",
     "git-widget-placeholder": "master",
     "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "C:/Users/Naman/IdeaProjects/PracticeAPIAutomation",
+    "last_opened_file_path": "C:/Users/Naman/IdeaProjects/PracticeAPIAutomation/src/test/java/com/testingacademy/ex30122024/CRUD/CRUD",
     "project.structure.last.edited": "Modules",
     "project.structure.proportion": "0.0",
     "project.structure.side.proportion": "0.0",
-    "settings.editor.selected.configurable": "reference.settings.ide.settings.file-colors"
+    "settings.editor.selected.configurable": "reference.settingsdialog.IDE.editor.colors"
   }
 }]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Naman\IdeaProjects\PracticeAPIAutomation\src\test\java\com\testingacademy\ex30122024\CRUD\CRUD" />
       <recent name="C:\Users\Naman\IdeaProjects\PracticeAPIAutomation" />
     </key>
     <key name="CopyClassDialog.RECENTS_KEY">
@@ -108,37 +121,17 @@
       <recent name="com.testingacademy.ex30122024.CRUD.POST" />
     </key>
   </component>
-  <component name="RunManager" selected="TestNG.TestNG009">
-    <configuration name="C:/Users/Naman/IdeaProjects/PracticeAPIAutomation/testNG008_Firefox.xml" type="TestNG" temporary="true" nameIsGenerated="true">
-      <module name="PracticeAPIAutomation" />
-      <option name="SUITE_NAME" value="$PROJECT_DIR$/testNG008_Firefox.xml" />
-      <option name="TEST_OBJECT" value="SUITE" />
-      <properties />
-      <listeners />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="C:/Users/Naman/IdeaProjects/PracticeAPIAutomation/testNG008_Parameter.xml" type="TestNG" temporary="true" nameIsGenerated="true">
-      <module name="PracticeAPIAutomation" />
-      <option name="SUITE_NAME" value="$PROJECT_DIR$/testNG008_Parameter.xml" />
-      <option name="TEST_OBJECT" value="SUITE" />
-      <properties />
-      <listeners />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="TestNG007" type="TestNG" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="TestNG.GSONser.testNonBDDStylePOSTPositive">
+    <configuration name="GSONSerialization" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="PracticeAPIAutomation" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.testingacademy.exTestNG.*" />
+          <option name="PATTERN" value="com.testingacademy.ex04012025.assersion.gson.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="com.testingacademy.exTestNG" />
-      <option name="MAIN_CLASS_NAME" value="com.testingacademy.exTestNG.TestNG007" />
+      <option name="PACKAGE_NAME" value="com.testingacademy.ex04012025.assersion.gson" />
+      <option name="MAIN_CLASS_NAME" value="com.testingacademy.ex04012025.assersion.gson.GSONSerialization" />
       <option name="TEST_OBJECT" value="CLASS" />
       <properties />
       <listeners />
@@ -146,17 +139,34 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="TestNG007.serverStartedOk" type="TestNG" temporary="true" nameIsGenerated="true">
+    <configuration name="GSONser" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="PracticeAPIAutomation" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.testingacademy.exTestNG.*" />
+          <option name="PATTERN" value="com.testingacademy.ex04012025.assersion.gson.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="com.testingacademy.exTestNG" />
-      <option name="MAIN_CLASS_NAME" value="com.testingacademy.exTestNG.TestNG007" />
-      <option name="METHOD_NAME" value="serverStartedOk" />
+      <option name="PACKAGE_NAME" value="com.testingacademy.ex04012025.assersion.gson" />
+      <option name="MAIN_CLASS_NAME" value="com.testingacademy.ex04012025.assersion.gson.GSONser" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="GSONser.testNonBDDStylePOSTPositive" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="PracticeAPIAutomation" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.testingacademy.ex04012025.assersion.gson.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.testingacademy.ex04012025.assersion.gson" />
+      <option name="MAIN_CLASS_NAME" value="com.testingacademy.ex04012025.assersion.gson.GSONser" />
+      <option name="METHOD_NAME" value="testNonBDDStylePOSTPositive" />
       <option name="TEST_OBJECT" value="METHOD" />
       <properties />
       <listeners />
@@ -164,16 +174,33 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="TestNG009" type="TestNG" temporary="true" nameIsGenerated="true">
+    <configuration name="JSONPath001" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="PracticeAPIAutomation" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.testingacademy.exTestNG.*" />
+          <option name="PATTERN" value="com.testingacademy.ex04012025.assersion.verification.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="com.testingacademy.exTestNG" />
-      <option name="MAIN_CLASS_NAME" value="com.testingacademy.exTestNG.TestNG009" />
+      <option name="PACKAGE_NAME" value="com.testingacademy.ex04012025.assersion" />
+      <option name="MAIN_CLASS_NAME" value="com.testingacademy.ex04012025.assersion.jsonpath.JSONPath001" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Pojo002" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="PracticeAPIAutomation" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.testingacademy.ex04012025.assersion.pojos.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.testingacademy.ex04012025.assersion.pojos" />
+      <option name="MAIN_CLASS_NAME" value="com.testingacademy.ex04012025.assersion.pojos.Pojo002" />
       <option name="TEST_OBJECT" value="CLASS" />
       <properties />
       <listeners />
@@ -183,11 +210,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="TestNG.TestNG009" />
-        <item itemvalue="TestNG.C:/Users/Naman/IdeaProjects/PracticeAPIAutomation/testNG008_Firefox.xml" />
-        <item itemvalue="TestNG.C:/Users/Naman/IdeaProjects/PracticeAPIAutomation/testNG008_Parameter.xml" />
-        <item itemvalue="TestNG.TestNG007" />
-        <item itemvalue="TestNG.TestNG007.serverStartedOk" />
+        <item itemvalue="TestNG.GSONser.testNonBDDStylePOSTPositive" />
+        <item itemvalue="TestNG.GSONserealization" />
+        <item itemvalue="TestNG.GSONSerialization" />
+        <item itemvalue="TestNG.Pojo002" />
+        <item itemvalue="TestNG.JSONPath001" />
       </list>
     </recent_temporary>
   </component>
@@ -232,7 +259,15 @@
       <option name="project" value="LOCAL" />
       <updated>1735566618935</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="With CURD Example.">
+      <option name="closed" value="true" />
+      <created>1735984961467</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1735984961467</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -277,7 +312,8 @@
     <MESSAGE value="Initial Commit" />
     <MESSAGE value="Basic Gherkin given() when() then() syntax" />
     <MESSAGE value="Both BDD and non BDD style example." />
-    <option name="LAST_COMMIT_MESSAGE" value="Both BDD and non BDD style example." />
+    <MESSAGE value="With CURD Example." />
+    <option name="LAST_COMMIT_MESSAGE" value="With CURD Example." />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/PracticeAPIAutomation$C__Users_Naman_IdeaProjects_PracticeAPIAutomation_testNG003_xml.ic" NAME="$PROJECT_DIR$/testNG003.xml Coverage Results" MODIFIED="1735573634185" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="true" />
